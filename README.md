@@ -12,3 +12,21 @@ Ex. Files, JPG, CSV, Videos, and any other kind of data.
 - Secure
 - Cost effective
 
+## Key Features Used  
+1. Bucket Creation  
+Globally unique bucket name  
+Region-specific deployment (e.g., ap-south-1)  
+2. Versioning  
+Enabled to keep multiple versions of objects  
+Helps in rollback and recovery  
+3. Access Control  
+IAM-based access using roles and policies  
+Bucket policies to control public/private access  
+4. Static Website Hosting  
+Configured to host frontend applications  
+Uses index.html as entry point  
+5. Lifecycle Policies  
+Automatically moves old data to cheaper storage (Glacier)  
+Deletes unused objects after defined time  
+6. Encryption  
+Server-side encryption enabled (SSE-S3 or SSE-KMS)  
