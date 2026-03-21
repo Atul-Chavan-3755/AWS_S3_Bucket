@@ -5,3 +5,7 @@ It allows you to store and retrieve any amount of data from anywhere on the web.
 - High availability
 - Secure
 - Cost effective
+
+## What can you store in these S3 ?  
+S3 service allows you to create buckets in which you can store anything.  
+Ex. Files, JPG, CSV, Videos, and other any kind of data. 
