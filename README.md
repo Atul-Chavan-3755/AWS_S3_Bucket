@@ -20,7 +20,7 @@ Region-specific deployment (e.g., ap-south-1)
 Enabled to keep multiple versions of objects  
 Helps in rollback and recovery  
 3. Access Control  
-IAM-based access using roles and policies  
+IAM-based access using roles and policies   
 Bucket policies to control public/private access  
 4. Static Website Hosting  
 Configured to host frontend applications  
