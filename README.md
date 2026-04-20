@@ -7,7 +7,7 @@ S3 service allows you to create buckets in which you can store anything, and You
 Ex. Files, JPG, CSV, Videos, and any other kind of data.  
 
 ## Benefits or Advantages of S3
-- Scalable
+- Scalable 
 - High availability
 - Secure
 - Cost effective
