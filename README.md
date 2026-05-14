@@ -1,5 +1,5 @@
 ## What is S3 ?
-Amazon S3 (Simple Storage Service) is a cloud storage service.  
+Amazon S3 (Simple Storage Service) is a cloud storage service.   
 It allows you to store and retrieve any amount of data from anywhere on the web.
 
 ## What can you store in these S3 ?  
